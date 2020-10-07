@@ -43,8 +43,8 @@ https://bg.wikipedia.org/wiki/Географска_информационна_с
 Създаване на интерактивни карти, достъпни чрез интернет:
 
 - [Leaflet](https://leafletjs.com/) :baby: - JavaScript библиотека за създаване на инстерактивни карти удобни за преглед и на мобилно устройство.
-- [OpenLayers](http://openlayers.org/) :star2: - JavaScript библиотека за визуализиране на карти.
-- [D3.js](https://d3js.org/) :star2: - JavaScript библиотека за интерактивни документи създадени от данни.
+- [OpenLayers](http://openlayers.org/) - JavaScript библиотека за визуализиране на карти.
+- [D3.js](https://d3js.org/) - JavaScript библиотека за интерактивни документи създадени от данни.
 
 
 ## Данни
