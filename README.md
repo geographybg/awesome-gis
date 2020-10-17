@@ -46,9 +46,17 @@ https://bg.wikipedia.org/wiki/Географска_информационна_с
 - [OpenLayers](http://openlayers.org/) - JavaScript библиотека за визуализиране на карти.
 - [D3.js](https://d3js.org/) - JavaScript библиотека за интерактивни документи създадени от данни.
 
+
 ### Сървърни продукти
 
 - [Geoserver](http://geoserver.org/) - Java сървър за публикуване на ГИС данни в уеб среда, съгласно OGC (WMS/WFS/WCS). 
+
+
+### Библиотеки
+
+- [pyesridump](https://github.com/openaddresses/pyesridump) - Изтегляне на всички обекти от ESRI MapServer слой в geojson.
+
+
 ## Данни
 
 - [Национален статистически институт (НСИ)](https://www.nsi.bg/bg/content/766/статистически-данни) - Национален статистически институт на България. 
