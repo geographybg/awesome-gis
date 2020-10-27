@@ -22,7 +22,7 @@
 - [Преброявания](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/census)
 
 
-### Евростат - транспорт (летища и пристинаща)
+### Евростат - транспорт (летища и пристанища)
 |                                 |   |
 |---------------------------------|---|
 | Лиценз | [Eurostat](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/transport-networks) TLDR; Без специфични изисквания |
