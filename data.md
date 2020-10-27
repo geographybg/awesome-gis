@@ -16,13 +16,13 @@
 
 - [Държави :world_map:](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/countries)
 - [Статистически райони (NUTS)](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts)
-- [Местни административни единици](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/lau)
+- [Местни административни единици (общини)](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/lau)
 - [Кметства](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/communes)
 - [Брегова линия](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/coastal)
 - [Преброявания](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/census)
 
 
-### Евростат - транспорт
+### Евростат - транспорт (летища и пристинаща)
 |                                 |   |
 |---------------------------------|---|
 | Лиценз | [Eurostat](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/transport-networks) TLDR; Без специфични изисквания |
