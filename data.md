@@ -37,3 +37,19 @@
 
 - [Транспортни връзки](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/transport-networks)
 
+
+### GADM - административни граници
+
+|                                 |   |
+|---------------------------------|---|
+| Лиценз | [GADM](https://gadm.org/license.html) TLDR; Свободен за образователни и некомерсиални цели |
+| Признание EN| © GADM |
+| Признание BG| © GADM |
+| Покритие | :world_map: |
+| Мащаб | 1:?m |
+| Времеви период | 2020 |
+| Бележки |  |
+| Формат | shp, gpkg, kmz, rds |
+| Геометрия | :orange_square: |
+
+- [Административни единици](https://gadm.org/download_world.html)
