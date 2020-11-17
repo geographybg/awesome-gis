@@ -71,7 +71,7 @@ https://bg.wikipedia.org/wiki/Географска_информационна_с
 - [matplotlib](http://matplotlib.org/) - Чертаене на графики с Python.
 - [networkx](http://networkx.github.io/) - За работа с графи (мрежи).
 - [pyesridump](https://github.com/openaddresses/pyesridump) :keyboard: - Изтегляне на всички обекти от ESRI MapServer слой в GeoJson.
-
+- [momepy](https://github.com/martinfleis/momepy) - Библиотека за количествени измерения на формите в застроените територии.
 
 ## Данни
 
