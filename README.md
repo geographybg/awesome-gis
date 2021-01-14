@@ -83,6 +83,9 @@ https://bg.wikipedia.org/wiki/Географска_информационна_с
 - [USGS EarthExplorer](https://earthexplorer.usgs.gov) - Преглед и изтегляне на изображения от американски мисии (Landsat).
 - [Urban Atlas](https://land.copernicus.eu/local/urban-atlas) - Urban Atlas предоставя общоевропейски сравними данни за земното покритие и земеползването във Функционални Урбанизирани Ареали (ФУА). 
 
+## Картни основи
+- [Sentinel2](https://s2maps.eu) - безоблачна сателитна растерна мозайка на света без облаци. Възможност за изтегляне и вграждане в ГИС.
+- [Stamen Maps](http://maps.stamen.com) - разнообразни картни основи. Възможност за изтегляне и вграждане в ГИС.
 
 ## Онлайн карти
 - [blitzortung.org](https://map.blitzortung.org/) - Светкавиците по света в реално време.
