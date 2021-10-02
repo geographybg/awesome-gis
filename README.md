@@ -59,6 +59,9 @@ https://bg.wikipedia.org/wiki/Географска_информационна_с
 
 - [Geoserver](http://geoserver.org/) - Java сървър за публикуване на ГИС данни в уеб среда, съгласно OGC (WMS/WFS/WCS). 
 
+### QGIS - плъгини и благинки
+
+- [Геоложки символи за QGIS](https://github.com/afrigeri/geologic-symbols-qgis) - Набор от символи използвани в геология, готови за използване във всеки проект.
 
 ### Библиотеки :snake:
 - [Shapely](https://github.com/Toblerity/Shapely) - Библиотека за работа с геометрични фигури в декартовата (правоъгълна) координатна система.
