@@ -52,6 +52,7 @@ https://bg.wikipedia.org/wiki/Географска_информационна_с
 
 - [MapChart](https://mapchart.net) :baby: - MapChart е софтуер за лесно изчертаване на карти онлайн изцяло с безплатен онлайн интерфейс.
 - [Leaflet](https://leafletjs.com/) :baby: - JavaScript библиотека за създаване на инстерактивни карти удобни за преглед и на мобилно устройство.
+- [leaflet-providers](https://github.com/leaflet-extras/leaflet-providers) - Разширение за Leaflet, което позволява зареждането на базови слоеве от различни безплатни (но понякога лимитирани) доставчици.
 - [OpenLayers](http://openlayers.org/) - JavaScript библиотека за визуализиране на карти.
 - [D3.js](https://d3js.org/) - JavaScript библиотека за интерактивни документи създадени от данни.
 
