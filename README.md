@@ -91,6 +91,7 @@ https://bg.wikipedia.org/wiki/Географска_информационна_с
 - [GlobalMaps](https://globalmaps.github.io/) - Отворени векторни и растерни данни за света и отделните държави - DEM, физикогеографски и антропогенни обекти. Пряка връзка към данните за България [тук](https://github.com/globalmaps/gmbg10).
 - [OpenTopography.org](https://portal.opentopography.org/dataCatalog) - Отворени топографски данни с висока резолюция - облаци от точки и растери.
 - [ФАО - ООН](https://data.apps.fao.org/map/catalog/srv/eng/catalog.search#/home) - Отворени данни с разнообразна насоченост предоставени от ФАО към ООН.
+- [Quantarctica](https://www.npolar.no/quantarctica/#toggle-id-2) - Готови данни за Антарктида - подходящи за учебни цели.
 
 ## Картни основи
 - [Sentinel2](https://s2maps.eu) - безоблачна сателитна растерна мозайка на света без облаци. Възможност за изтегляне и вграждане в ГИС.
