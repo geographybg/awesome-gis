@@ -123,6 +123,7 @@ https://bg.wikipedia.org/wiki/Географска_информационна_с
 ## Онлайн визуализации
 - [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/explore) - Визуализация на икономическия стокообмен по сектори и държави в света.
 - [Rocks - A 3D model collection](https://sketchfab.com/baxterbaxter/collections/rocks) - Колекция с 3D-модели на скали.
+- [GPS](https://ciechanow.ski/gps/) - Обяснение как работят глобалните навигационни спътникови системи (ГНСС).
 
 
 ## Картографски визуализации
