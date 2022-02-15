@@ -140,7 +140,7 @@ https://bg.wikipedia.org/wiki/Географска_информационна_с
 - [geoguessr](https://www.geoguessr.com) - Познай къде се намираш на картата по снимка от гугъл мапс.
 - [landlines](https://lines.chromeexperiments.com) - Нарисувай линия  на екрана и ще получиш сателитна снимка, изобразяваща същата форма.
 - [Saterra](https://online.seterra.com/en) - Колекция от игри викторини, свързани с политическа и природна география. 
-
+- [worldle](https://worldle.teuteuf.fr) - Познай държавата по нейните граници подобно на WORDLE.
 
 ## Инструменти за градско планиране
 
