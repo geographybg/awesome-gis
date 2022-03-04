@@ -124,6 +124,9 @@ https://bg.wikipedia.org/wiki/Географска_информационна_с
 - [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/explore) - Визуализация на икономическия стокообмен по сектори и държави в света.
 - [Rocks - A 3D model collection](https://sketchfab.com/baxterbaxter/collections/rocks) - Колекция с 3D-модели на скали.
 - [GPS](https://ciechanow.ski/gps/) - Обяснение как работят глобалните навигационни спътникови системи (ГНСС).
+- [Surname Map](https://www.surnamemap.eu/) - Изберете някоя държава от наличните и проверете разпространението на избрано от вас фамилно име.
+- [This City Does Not Exist](https://thiscitydoesnotexist.com/) - Сателитни снимки на изкуствено генерирани градове.
+- [DataWrappeer](https://www.datawrapper.de/) - Сайт, в който може да създавате свои собствени карти, графики и таблици с добавени от вас данни. Предоставя сравнително голяма свобода по отношение на визуализацията.
 
 
 ## Картографски визуализации
