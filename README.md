@@ -55,6 +55,7 @@ https://bg.wikipedia.org/wiki/Географска_информационна_с
 - [leaflet-providers](https://github.com/leaflet-extras/leaflet-providers) - Разширение за Leaflet, което позволява зареждането на базови слоеве от различни безплатни (но понякога лимитирани) доставчици.
 - [OpenLayers](http://openlayers.org/) - JavaScript библиотека за визуализиране на карти.
 - [D3.js](https://d3js.org/) - JavaScript библиотека за интерактивни документи създадени от данни.
+- [DataWrappeer](https://www.datawrapper.de/) :euro: :baby: - Инструмент за създаване на карти и прилежащи графики и таблици със собствени данни.
 
 ### Сървърни продукти
 
@@ -119,12 +120,12 @@ https://bg.wikipedia.org/wiki/Географска_информационна_с
 - [Геокартфонд](https://gkf.cadastre.bg/) :euro: - Интерактивена карта Геокартфонд, съдържа ЕТК в М 1:5000 и 1:10 000 с възможност за закупуване на карти във висока резолюция. 
 - [Глобус с подводни интернет кабели](https://globe.gl/example/submarine-cables/) - Интерактивен глобус с активните подводни кабели, по които текат сигналите на интернет.
 
-
 ## Онлайн визуализации
 - [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/explore) - Визуализация на икономическия стокообмен по сектори и държави в света.
 - [Rocks - A 3D model collection](https://sketchfab.com/baxterbaxter/collections/rocks) - Колекция с 3D-модели на скали.
 - [GPS](https://ciechanow.ski/gps/) - Обяснение как работят глобалните навигационни спътникови системи (ГНСС).
-
+- [Surname Map](https://www.surnamemap.eu/) - Проверка на географското разпространението на фамилните имена в някои държави в Европа.
+- [This City Does Not Exist](https://thiscitydoesnotexist.com/) - Генерирани сателитни снимки на градове чрез изкуствен интелект.
 
 ## Картографски визуализации
 - [Сравняване на картографските проекции](https://observablehq.com/@d3/projection-comparison) - Интерактивно сравнение на световната карта в различните картографски проекции с d3.
@@ -140,7 +141,8 @@ https://bg.wikipedia.org/wiki/Географска_информационна_с
 - [geoguessr](https://www.geoguessr.com) - Познай къде се намираш на картата по снимка от гугъл мапс.
 - [landlines](https://lines.chromeexperiments.com) - Нарисувай линия  на екрана и ще получиш сателитна снимка, изобразяваща същата форма.
 - [Saterra](https://online.seterra.com/en) - Колекция от игри викторини, свързани с политическа и природна география. 
-- [worldle](https://worldle.teuteuf.fr) - Познай държавата по нейните граници подобно на WORDLE.
+- [Worldle](https://worldle.teuteuf.fr) - Познай държавата по нейните граници подобно на WORDLE.
+- [Globle](https://globle-game.com/) - Игра тип "топло и студено" с познаване на държави.
 
 ## Инструменти за градско планиране
 
