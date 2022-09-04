@@ -142,7 +142,9 @@ https://bg.wikipedia.org/wiki/Географска_информационна_с
 - [landlines](https://lines.chromeexperiments.com) - Нарисувай линия  на екрана и ще получиш сателитна снимка, изобразяваща същата форма.
 - [Saterra](https://online.seterra.com/en) - Колекция от игри викторини, свързани с политическа и природна география. 
 - [Worldle](https://worldle.teuteuf.fr) - Познай държавата по нейните граници подобно на WORDLE.
-- [Globle](https://globle-game.com/) - Игра тип "топло и студено" с познаване на държави.
+- [Globle](https://globle-game.com/) - Познай държавата тип "топло и студено".
+- [Countryle](https://countryle.com/) - Познай държавата с географски и статистически жокери.
+
 
 ## Инструменти за градско планиране
 
