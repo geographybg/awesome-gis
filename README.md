@@ -54,6 +54,7 @@ https://bg.wikipedia.org/wiki/Географска_информационна_с
 - [Leaflet](https://leafletjs.com/) :baby: - JavaScript библиотека за създаване на инстерактивни карти удобни за преглед и на мобилно устройство.
 - [leaflet-providers](https://github.com/leaflet-extras/leaflet-providers) - Разширение за Leaflet, което позволява зареждането на базови слоеве от различни безплатни (но понякога лимитирани) доставчици.
 - [OpenLayers](http://openlayers.org/) - JavaScript библиотека за визуализиране на карти.
+- [Mapbase](https://mapbase.dev/) :baby: - Location registry API за официални локации, зони, йерархия, геометрия и SEO-ready location context.
 - [D3.js](https://d3js.org/) - JavaScript библиотека за интерактивни документи създадени от данни.
 - [DataWrappeer](https://www.datawrapper.de/) :euro: :baby: - Инструмент за създаване на карти и прилежащи графики и таблици със собствени данни.
 
